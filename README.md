@@ -14,5 +14,5 @@ Proyek ini menganalisis 4.269 data pengajuan pinjaman untuk mengevaluasi efektiv
 3. **Lead Re-engagement:** Program edukasi perbaikan kredit bagi 37,78% pemohon yang ditolak agar dapat mengajukan ulang di masa mendatang.
 
 ## 📁 Project Deliverables
-- **Presentation Deck:** [Unduh Slide Presentasi (PDF)](Loan_Approval_Analysis_Portfolio_Riel Amanda.pdf)
+- **Presentation Deck:** [Unduh Slide Presentasi (PDF)](Loan_Approval_Analysis_Portfolio_RielAmanda.pdf)
 - **Power BI File:** [Download .PBIX File](Loan_Portfolio.pbix)
